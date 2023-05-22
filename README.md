@@ -40,3 +40,5 @@ cd C:\Users\username\postgres-backup\
 start /min backup.exe
 EXIT
 ```
+## LICENSE
+MIT License
